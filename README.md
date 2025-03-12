@@ -38,6 +38,8 @@ This module leverages locally deployed LLMs to generate intelligent feedback:
 - Initial Feedback Generator: Creates detailed feedback based on test results
 - Integrated Score Generator: Calculates scores based on code quality, test results, and feedback context
 - Score + Feedback Aligner: Ensures consistency between numerical scores and narrative feedback
+- Provide feedback about coding style e.g. variable and function names, indentation etc
+- Provide statistics about code similiarity to other submissions.
 
 ### 4. Moodle Integration
 
